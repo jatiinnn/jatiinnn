@@ -6,7 +6,7 @@ Currently working on real-world billing software for a small business using **Ne
 
 
 ## 📄 Resume
-📥 [View My Resume (PDF)](https://drive.google.com/drive/folders/1jiWyWEqO9Eqn9jNt3LNHC-8VIsL0g_h2?usp=drive_link)
+📥 [View My Resume (PDF)](https://drive.google.com/file/d/1P_W2QYRtdqPT3u31rpMV6cpYnvTI0NEF/view?usp=sharing)
 
 ---
 

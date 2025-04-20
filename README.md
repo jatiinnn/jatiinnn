@@ -52,8 +52,9 @@ Currently working on real-world billing software for a small business using **Ne
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/jatin-varshneyyy)
-- 📧 Gmail - jatinvarshney@gmail.com
 - 📶 [Instagram](https://www.instagram.com/jatin._.0/)
+- 📧 Email - jatinvarshney@gmail.com
+
 
 ---
 

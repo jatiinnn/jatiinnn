@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jatin Varshney
 
-🎓 B.Tech IT Student @ Galgotias | 👨‍💻 Web Developer | ⚙️ AI-Enhanced Coder
+🎓 B.Tech IT Student @ Galgotias College of Engineering & Technology | 👨‍💻 Web Developer | ⚙️ AI-Enhanced Coder
 
 Currently working on real-world billing software for a small business using **Next.js**, **MongoDB**, and **Tailwind CSS** — built with help from AI tools like **v0 by Vercel** and **ChatGPT**.
 

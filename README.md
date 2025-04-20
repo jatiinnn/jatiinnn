@@ -1,11 +1,40 @@
 # 👋 Hey, I'm Jatin Varshney
 
-🎓 B.Tech IT Student @ GCET | 👨‍💻 Web Dev | ⚙️ AI Tools Enthusiast  
+🎓 B.Tech IT Student @ Galgotias | 👨‍💻 Web Developer | ⚙️ AI-Enhanced Coder
 
-## 🔗 Links
-- 🌐 [My Resume](https://drive.google.com/your-resume-link)
-- 💼 [LinkedIn](https://linkedin.com/in/jatin-varshneyyy)
-- 📁 [Live Billing Project](https://ddsoft-sigma.vercel.app)
+Currently working on real-world billing software for a small business using **Next.js**, **MongoDB**, and **Tailwind CSS** — built with help from AI tools like **v0 by Vercel** and **ChatGPT**.
+
+
+## 📄 Resume
+📥 [View My Resume (PDF)](https://drive.google.com/drive/folders/1jiWyWEqO9Eqn9jNt3LNHC-8VIsL0g_h2?usp=drive_link)
+
+---
+
+## 💼 Projects
+
+### 🧾 [Billing Software – DD Software](https://ddsoft-sigma.vercel.app)
+> A custom billing solution for a small business with invoicing, reports, admin panel, dashboards, multi-user access, and analytics.  
+> **Tech Stack:** Next.js, React.js, Tailwind CSS, MongoDB  
+> 🧠 Built using AI tools like v0 by Vercel and ChatGPT for speed and quality.
+
+### 🏦 [Bank Management System](https://github.com/jatiinnn/Bank_Management_System)
+> A command-line application for simulating bank operations like account creation, transactions, and balance tracking.  
+> **Tech Stack:** Python, MySQL
+
+### 🎮 [Tic Tac Toe Game](https://github.com/jatiinnn/mini-project-Tic-Tac-Toe-)
+> A browser-based 2-player game with responsive UI and win/loss logic.  
+> **Tech Stack:** HTML5, CSS3, JavaScript
+
+---
+
+## 🛠️ Skills & Tools
+
+**Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Next.js  
+**Backend:** Python, Node.js, REST APIs  
+**Database:** MySQL, MongoDB (Atlas & Compass), Firebase  
+**Tools:** Git, GitHub, Vercel, VS Code, Android Studio, XAMPP  
+**AI-Driven Dev:** GitHub Copilot, ChatGPT, Vercel v0  
+**Soft Skills:** Leadership, Communication, Strategic Thinking
 
 ---
 
@@ -20,19 +49,12 @@
 
 ---
 
-## 💻 Projects
-### 🚀 Billing Software (Live)
-> Built for a real client using Next.js, React.js, Tailwind, and MongoDB  
-> [Live Demo](https://ddsoft-sigma.vercel.app)
+## 🔗 Let's Connect
 
-### 🏦 Bank Management System
-> CLI tool using Python + MySQL to simulate basic banking operations.
-
-### 🎮 Tic Tac Toe Game
-> 2-player browser-based game using HTML, CSS, and JS.
+- 💼 [LinkedIn](https://linkedin.com/in/jatin-varshneyyy)
+- 💻 [GitHub](https://github.com/jatiinnn)
 
 ---
 
-## 🛠️ Tech Stack
-HTML | CSS | JavaScript | Tailwind | Next.js | React.js | Node.js | MongoDB | Python | Git | GitHub Copilot
+🧠 Open to internships, freelance gigs, and collaborations. Let's build something impactful!
 

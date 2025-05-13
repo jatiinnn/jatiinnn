@@ -36,7 +36,7 @@ Currently working on real-world billing software for a small business using **Ne
 **Frontend :**  HTML5, CSS3, JavaScript, Tailwind CSS, React.js, Next.js  
 **Backend :**  Python, Node.js, REST APIs  
 **Database :**  MySQL, MongoDB (Atlas & Compass), Firebase  
-**Tools :**  Git, GitHub, Vercel, VS Code, Android Studio, XAMPP  
+**Tools :**  Shopify, Git, GitHub, Vercel, VS Code, Android Studio, XAMPP  
 **AI-Driven Dev :**  GitHub Copilot, ChatGPT, Vercel v0  
 **Soft Skills :**  Leadership, Communication, Strategic Thinking
 

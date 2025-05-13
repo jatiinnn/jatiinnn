@@ -18,8 +18,8 @@ Currently working on real-world billing software for a small business using **Ne
 > 🧠 Built using AI tools like v0 by Vercel and ChatGPT for speed and quality.
 
 ### 🧾 [Mock Shopify Store – CultreBoat](https://cultreboatt.myshopify.com/)
-> **Password:** hireMe.
-> Instagram I'd: [CultreBoat](https://www.instagram.com/cultreboat/).
+> **Password:** hireMe  
+> Instagram I'd: [CultreBoat](https://www.instagram.com/cultreboat/)  
 
 ### 🏦 [Bank Management System](https://github.com/jatiinnn/Bank_Management_System)
 > A command-line application for simulating bank operations like account creation, transactions, and balance tracking.  
@@ -37,7 +37,7 @@ Currently working on real-world billing software for a small business using **Ne
 **Backend :**  Python, Node.js, REST APIs  
 **Database :**  MySQL, MongoDB (Atlas & Compass), Firebase  
 **Tools :**  Shopify, Git, GitHub, Vercel, VS Code, Android Studio, XAMPP  
-**AI-Driven Dev :**  v0 by Vercel, cursor, claude, GitHub Copilot, ChatGPT 
+**AI-Driven Dev :**  v0 by Vercel, cursor, claude, GitHub Copilot, ChatGPT  
 **Soft Skills :**  Leadership, Communication, Strategic Thinking
 
 ---

@@ -17,7 +17,7 @@ Currently working on real-world billing software for a small business using **Ne
 > **Tech Stack:** Next.js, React.js, Tailwind CSS, MongoDB  
 > 🧠 Built using AI tools like v0 by Vercel and ChatGPT for speed and quality.
 
-### 🧾 [Mock Shopify Store – CultreBoat](cultreboatt.myshopify.com)
+### 🧾 [Mock Shopify Store – CultreBoat](https://cultreboatt.myshopify.com/)
 > **Password:** hireMe
 > Instagram I'd: [CultreBoat](https://www.instagram.com/cultreboat/)
 
